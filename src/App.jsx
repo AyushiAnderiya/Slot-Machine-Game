@@ -36,7 +36,7 @@ function App() {
     <>
       <div className="main">
         <div className="head">
-        <h1>🎰 FortuneSpin: Spin & Win🎰</h1>  
+        <h1>🎰 FortuneClick: Click To Win🎰</h1>  
         </div>
         <br /> <br />
         <button className='btn'id='first' onClick={SlowM()}>1st Try</button>
